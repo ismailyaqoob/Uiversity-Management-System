@@ -18,5 +18,5 @@ This project is developed in 1st semester of Software Engineering as the semeste
 
 ## How to Compile?
 
-First of all you need to download the project then you need Dev-Cpp to run the project. If you have already installed Dev-Cpp then go to the folder of **most final** then open **AIRFLIGHTS.sln** then press **F11** to execute the code.
+First of all you need to download the project then you need Dev-Cpp to run the project. If you have already installed Dev-Cpp then open file **project.cpp** then press **F11** to execute the code.
 
